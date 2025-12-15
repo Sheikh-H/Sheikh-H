@@ -4,6 +4,8 @@
 
 Welcome to my GitHub Profile, where I'll be uploading my most recent projects on learning and becoming a **Full-Stack Developer** and **Penetration Tester**.
 
+> Note: I will NOT use my skills to be a 'black-hat' in any means at all. I will use my skills for creative development and penetration tests to secure systems.
+
 </div>
 
 ## About Me:
