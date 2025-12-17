@@ -68,7 +68,7 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 ![Gif of my portfolio](https://github.com/Sheikh-H/My-Portfolio/blob/main/Media/Images/My-Portfolio.gif)
 
 <div align="center">
-	<a class="header-badge" target="_blank" href="https://sheikh-h.github.io/My-Portfolio/">
+	<a class="header-badge" target="_blank" href="https://sheikh-h.github.io/">
 	<img src="https://img.shields.io/badge/View_Portfolio-376e00?style=flat&logo=github&logoColor=white" alt="Portfolio">
 	</a>
 </div>
