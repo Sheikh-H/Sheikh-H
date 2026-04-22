@@ -2,17 +2,19 @@
 
 <div align="center">
 
-Welcome to my GitHub Profile, where I'll be uploading my most recent projects on learning and becoming a **Full-Stack Developer** and **Penetration Tester**.
+Welcome to my GitHub Profile, where I'll be uploading my most recent projects on learning and becoming a **Full-Stack Developer**.
 
-> Note: I will NOT use my skills to be a 'black-hat' in any means at all. I will use my skills for creative development and penetration tests to secure systems.
+> Note: I’m focused on using my skills for creative development, designing applications, and building efficient, user-friendly systems.
 
 </div>
 
 ## About Me:
 
-I’m a **junior developer** and **penetration tester** 🧑‍💻 who’s on an exciting journey into the tech world! I’ve always had a passion for **coding** 💻 and **ethical hacking** 🔐, and over the past few months, I’ve been diving into <abbr title = "Capture The Flags"> CTFs </abbr> on Hack The Box and TryHackMe 🎯. I'm super excited to have earned some **certificates** along the way! 🎓🔓
+I’m a **junior developer** 🧑‍💻 who’s on an exciting journey into the tech world! I’ve always had a passion for **coding** 💻 and **building applications** 🚀, and over the past few months, I’ve been actively working on developing my skills through hands-on projects and real-world practice 🎯. I'm super excited to have earned some **certificates** along the way! 🎓
 
-Currently, I’m focusing on improving my **Python Programming** skills 🐍—I’ve just started but am already feeling more comfortable with it every day. From building small scripts to diving into more complex projects, Python is quickly becoming one of my **favourite languages**! ❤️
+Currently, I’m focusing on improving my **Python Programming** skills 🐍—I’ve just started but am already feeling more comfortable with it every day. From building small scripts to developing more complex applications, Python is quickly becoming one of my **favourite languages**! ❤️
+
+I’m also exploring **full-stack development**, learning how to design, build, and connect both the **front-end** and **back-end** of applications 🌐. Creating responsive, functional, and scalable projects is something I genuinely enjoy.
 
 I spent some time away from the tech industry after facing the "entry-level experience" wall when I finished my studies. But that only made me more determined to get back into doing what I love! 💪
 
@@ -50,7 +52,7 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 </tr>
 <tr>
 	<td>My Website - Portfolio</td>
-	<td><a style="color:green" style="color:green" href="https://sheikh-h.github.io/">Link</a></td>
+	<td><a style="color:green" href="https://sheikh-h.github.io/">Link</a></td>
 	<td align="right">11th December 2025</td>
 </tr>
 <tr>
@@ -58,7 +60,7 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 	<td><a style="color:green"  href="https://github.com/Sheikh-H/Password-Generator">Link</a></td>
 	<td align="right">26th October 2025</td>
 </tr>
-	<tr>
+<tr>
 	<td>Flask Website</td>
 	<td><a style="color:green"  href="https://flask-website-xfss.onrender.com/">Link</a></td>
 	<td align="right">19th January 2026</td>
