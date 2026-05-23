@@ -37,8 +37,8 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 </tr>
 <tr>
 	<td>Python Task Manager</td>
-	<td><a style="color:green"  href="https://github.com/Sheikh-H/TaskManager">Link</a></td>
-	<td align="right">5th November 2025</td>
+	<td><a style="color:green"  href="https://github.com/Sheikh-H/Sentinel-Task">Link</a></td>
+	<td align="right">23th May 2026</td>
 </tr>
 <tr>
 	<td>Zombie Game</td>
