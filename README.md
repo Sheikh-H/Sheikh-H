@@ -51,9 +51,9 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 	<td align="right">26th October 2025</td>
 </tr>
 <tr>
-	<td>My Website - Portfolio</td>
-	<td><a style="color:green" href="https://sheikh-h.github.io/">Link</a></td>
-	<td align="right">11th December 2025</td>
+	<td>My Portfolio Website</td>
+	<td><a style="color:green" href="https://sheikh-hussain.onrender.com/">Link</a></td>
+	<td align="right">19th July 2026</td>
 </tr>
 <tr>
 	<td>Python Password Generator</td>
@@ -70,12 +70,10 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 
 ## My Portfolio
 
-<p align="center">I have also created a portfolio and hosted it using GitHub so that you can see my work. Again, it's all still in its early stages, and a lot of work is needed to get it rendering as best as it can on all platforms. I'd love to hear your thoughts on it, so why not give it a quick view?</p>
-
-![Gif of my portfolio](https://github.com/Sheikh-H/My-Portfolio/blob/main/Media/Images/My-Portfolio.gif)
+<p align="center">I have also created a portfolio and hosted it using Render so that you can see my work. Again, it's all still in its early stages, and a lot of work is needed to get it rendering as best as it can on all platforms. I'd love to hear your thoughts on it, so why not give it a quick view?</p>
 
 <div align="center">
-	<a class="header-badge" target="_blank" href="https://sheikh-h.github.io/">
+	<a class="header-badge" target="_blank" href="https://sheikh-hussain.onrender.com/">
 	<img src="https://img.shields.io/badge/View_Portfolio-376e00?style=flat&logo=github&logoColor=white" alt="Portfolio">
 	</a>
 </div>
@@ -87,10 +85,10 @@ ___
 	<a class="header-badge" target="_blank" href="https://github.com/Sheikh-H"><img src="https://img.shields.io/badge/GitHub-376e00?style=flat&logo=github&logoColor=white" alt="GitHub">
 	</a><a class="header-badge" target="_blank" href="https://www.linkedin.com/in/sheikh-hussain/"><img src="https://img.shields.io/badge/LinkedIn-376e00?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 	</a><a class="header-badge" target="_blank" href="mailto:sheikh.hussain1155@gmail.com"><img src="https://img.shields.io/badge/Gmail-376e00?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-	</a><a class="header-badge" target="_blank" href="https://sheikh-h.github.io/"><img src="https://img.shields.io/badge/Portfolio-376e00?style=flat&logo=github&logoColor=white" alt="Portfolio">
+	</a><a class="header-badge" target="_blank" href="https://sheikh-hussain.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-376e00?style=flat&logo=github&logoColor=white" alt="Portfolio">
 	</a>
 </div>
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/sheikh-hussain/" target="_blank">By Sheikh Hussain 💚</a>  
+	<a href="https://sheikh-hussain.onrender.com/" target="_blank">By Sheikh Hussain 💚</a>  
 </div>
