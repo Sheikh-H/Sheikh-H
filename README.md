@@ -10,7 +10,7 @@ Welcome to my GitHub Profile, where I'll be uploading my most recent projects on
 
 ## About Me:
 
-I’m a **junior developer** 🧑‍💻 who’s on an exciting journey into the tech world! I’ve always had a passion for **coding** 💻 and **building applications** 🚀, and over the past few months, I’ve been actively working on developing my skills through hands-on projects and real-world practice 🎯. I'm super excited to have earned some **certificates** along the way! 🎓
+I’m an **aspiring developer** 🧑‍💻 who’s on an exciting journey into the tech world! I’ve always had a passion for **coding** 💻 and **building applications** 🚀, and over the past few months, I’ve been actively working on developing my skills through hands-on projects and real-world practice 🎯. I'm super excited to have earned some **certificates** along the way! 🎓
 
 Currently, I’m focusing on improving my **Python Programming** skills 🐍—I’ve just started but am already feeling more comfortable with it every day. From building small scripts to developing more complex applications, Python is quickly becoming one of my **favourite languages**! ❤️
 
