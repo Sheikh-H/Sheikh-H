@@ -9,22 +9,23 @@ Welcome to my GitHub Profile, where I'll be uploading my most recent projects on
 </div>
 
 ## About Me:
+I'm an aspiring developer 🧑‍💻 who enjoys learning how applications are built and improving my skills through practical projects.
 
-I’m an **aspiring developer** 🧑‍💻 who’s on an exciting journey into the tech world! I’ve always had a passion for **coding** 💻 and **building applications** 🚀, and over the past few months, I’ve been actively working on developing my skills through hands-on projects and real-world practice 🎯. I'm super excited to have earned some **certificates** along the way! 🎓
+Over the past year, I have been developing my programming knowledge by creating projects, experimenting with different technologies, and learning how to approach problems more effectively. Each project helps me improve my problem-solving skills, strengthen my understanding of programming concepts, and become more confident as a developer.
 
-Currently, I’m focusing on improving my **Python Programming** skills 🐍—I’ve just started but am already feeling more comfortable with it every day. From building small scripts to developing more complex applications, Python is quickly becoming one of my **favourite languages**! ❤️
+Currently, I am focusing on improving my Python programming skills 🐍 and learning how to write cleaner, more efficient code. I enjoy breaking problems down into smaller parts, understanding how different pieces of code work together, and gradually building my knowledge through practice.
 
-I’m also exploring **full-stack development**, learning how to design, build, and connect both the **front-end** and **back-end** of applications 🌐. Creating responsive, functional, and scalable projects is something I genuinely enjoy.
+I am also exploring full-stack development 🌐, learning how front-end and back-end technologies connect to create functional and user-friendly applications. My current focus is developing a stronger understanding of web development, databases, application structure, and deployment.
 
-I spent some time away from the tech industry after facing the "entry-level experience" wall when I finished my studies. But that only made me more determined to get back into doing what I love! 💪
+I believe in being honest about my learning process. While building projects, I use ChatGPT as a learning assistant to help me understand concepts, debug issues, explore different approaches, and improve my code. I also use it for brainstorming ideas, naming projects, and improving documentation such as README files.
 
-I’m still learning every day, so my repos might not look as impressive as some others you might have seen, but I promise I’m working hard to improve! 🔧✨
+My goal is not just to create projects that work, but to understand how and why they work, strengthen my problem-solving skills, and become more independent as I continue learning. 🚀
 
-One of the best parts of this journey has been connecting with other developers 👩‍💻👨‍💻 and being part of amazing **online communities** 🌍. Sharing knowledge and working together is what really motivates me.
+Like many people entering the tech industry, I have faced the challenge of gaining practical experience after completing my studies. Instead of stepping away, I decided to continue developing my skills by building projects, learning consistently, and improving through hands-on practice.
 
-As of now, I’m **learning how to make markdown files** (like this one!), and this is my first ever self-uploaded one, with just a little bit of help from AI 😉.
+I am still early in my development journey, and my repositories represent my progress as I continue learning. I enjoy connecting with other developers, sharing knowledge, and being part of communities where people learn and grow together.
 
-Feel free to explore my work, and if you want to join me in this adventure, check out my **portfolio** and let's grow together! 🚀
+Thanks for visiting my profile. Feel free to explore my projects, check out my portfolio, and follow along as I continue developing my skills.
 
 ## 🧑‍💻 Most Recent Work
 
@@ -36,9 +37,9 @@ Feel free to explore my work, and if you want to join me in this adventure, chec
 	<th>Last Updated</th>
 </tr>
 <tr>
-	<td>Python Task Manager</td>
-	<td><a style="color:green"  href="https://github.com/Sheikh-H/Sentinel-Task">Link</a></td>
-	<td align="right">23th May 2026</td>
+	<td>Task Manager</td>
+	<td><a style="color:green"  href="https://github.com/Sheikh-H/Priora-Task-Manager">Link</a></td>
+	<td align="right">27th Jul 2026</td>
 </tr>
 <tr>
 	<td>Zombie Game</td>
