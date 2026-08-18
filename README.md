@@ -39,7 +39,7 @@ Thanks for visiting my profile. Feel free to explore my projects, check out my p
 <tr>
 	<td>Task Manager</td>
 	<td><a style="color:green"  href="https://github.com/Sheikh-H/Priora-Task-Manager">Link</a></td>
-	<td align="right">27th Jul 2026</td>
+	<td align="right">27th July 2026</td>
 </tr>
 <tr>
 	<td>Zombie Game</td>
@@ -64,7 +64,7 @@ Thanks for visiting my profile. Feel free to explore my projects, check out my p
 <tr>
 	<td>Inventory Manager Website</td>
 	<td><a style="color:green"  href="https://ventory-inventory-manager.onrender.com/">Link</a></td>
-	<td align="right">20th July 2026</td>
+	<td align="right">8th August 2026</td>
 </tr>
 </table>
 </div>
