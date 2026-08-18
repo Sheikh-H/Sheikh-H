@@ -62,9 +62,9 @@ Thanks for visiting my profile. Feel free to explore my projects, check out my p
 	<td align="right">26th October 2025</td>
 </tr>
 <tr>
-	<td>Flask Website</td>
-	<td><a style="color:green"  href="https://flask-website-xfss.onrender.com/">Link</a></td>
-	<td align="right">19th January 2026</td>
+	<td>Inventory Manager Website</td>
+	<td><a style="color:green"  href="https://ventory-inventory-manager.onrender.com/">Link</a></td>
+	<td align="right">20th July 2026</td>
 </tr>
 </table>
 </div>
